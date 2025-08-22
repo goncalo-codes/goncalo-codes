@@ -3,8 +3,8 @@
 # 👀 Hello there! 
 
 **`Evolving in Programming, line by line of code`**
-
-Hi, I’m Gonçalo Oliveira, a Multimedia student passionate about programming. I focus on building projects that solve real problems for real people, learning every day, exploring new approaches, tackling challenges, and working collaboratively to improve my skills. On this GitHub, you’ll find future projects that reflect my curiosity, growth, and journey as a developer.
+<br/><br/><br/>
+Hi, I’m Gonçalo Oliveira, a Multimedia student passionate about programming. I focus on building projects that solve real problems for real people, learning every day, exploring new approaches, tackling challenges, and working collaboratively to improve my skills.<br/><br/> On this GitHub, you’ll find future projects that reflect my curiosity, growth, and journey as a developer.
 
 
 ---
