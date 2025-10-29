@@ -7,16 +7,12 @@
 
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi">&nbsp; Hello! I'm Gonçalo Oliveira
 
-
 Backend-focused developer in training | 🎓 <i>Final-year Multimédia student</i>  
-Motivated to build APIs and systems that solve real problems and improve people's lives.  
-Looking for opportunities to apply skills, learn new technologies, and contribute to meaningful projects.  
 
-🔭 **Developing personal and academic projects** and exploring backend technologies  
-🌱 Strong in **Python**, **C#**, and JavaScript; currently deepening knowledge in advanced Python concepts and also database design/optimization  
-💡 Enjoy working both in teams-discussing ideas and improving code collaboratively-and independently, **building fullstack solutions** from scratch  
-📚 Curious, persistent, and **looking for new challenges**; committed to understanding concepts deeply and seeing projects through
-
+🚀 Motivated to **build APIs and systems** that solve real problems and improve people's lives  
+💻 Looking for opportunities to **apply skills, learn new technologies**, and contribute to meaningful projects  
+💡 Enjoy working both in **teams discussing ideas** and independently, **building fullstack solutions from scratch**  
+📚 Curious, persistent, and always **seeking new challenges**, committed to understanding concepts deeply and seeing projects through
 
 ---
 
