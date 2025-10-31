@@ -22,15 +22,15 @@ Backend-focused developer in training | 🎓 <i>Final-year Multimédia student</
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30" />
 </p>
 
 #### 🌱 Familiar / Also Used
 <p align="left">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FC3F3F?style=for-the-badge&logo=laravel&logoColor=white" height="30" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="30" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
 </p>
 
@@ -57,7 +57,7 @@ Backend-focused developer in training | 🎓 <i>Final-year Multimédia student</
 
 ---
 
-## 🚀 Projects
+## 🚀 Relevant Projects
 <p align="left">
   <a href="https://github.com/goncalo-codes/retail-management-system"><img alt="Retail Management System" src="https://img.shields.io/badge/Retail-Management-blue?style=for-the-badge"></a>
   <a href="https://github.com/goncalo-codes/bingo-game"><img alt="Bingo Game" src="https://img.shields.io/badge/Bingo-Game-green?style=for-the-badge"></a>
