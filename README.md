@@ -46,7 +46,7 @@ Backend-focused developer in training | 🎓 <i>Final-year Multimédia student</
 
 <br>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-codes&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-f-oliveira&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </p>
 
 <picture>
@@ -59,8 +59,8 @@ Backend-focused developer in training | 🎓 <i>Final-year Multimédia student</
 
 ## 🚀 Relevant Projects
 <p align="left">
-  <a href="https://github.com/goncalo-codes/retail-management-system"><img alt="Retail Management System" src="https://img.shields.io/badge/Retail-Management-blue?style=for-the-badge"></a>
-  <a href="https://github.com/goncalo-codes/bingo-game"><img alt="Bingo Game" src="https://img.shields.io/badge/Bingo-Game-green?style=for-the-badge"></a>
-  <a href="https://github.com/goncalo-codes/ipv4_quizz_flutter"><img alt="IPv4 Quiz Flutter" src="https://img.shields.io/badge/IPv4-Quiz-orange?style=for-the-badge"></a>
-  <a href="https://github.com/goncalo-codes/vas-studio"><img alt="VAS Studio" src="https://img.shields.io/badge/VAS-Studio-red?style=for-the-badge"></a>
+  <a href="https://github.com/goncalo-f-oliveira/retail-management-system"><img alt="Retail Management System" src="https://img.shields.io/badge/Retail-Management-blue?style=for-the-badge"></a>
+  <a href="https://github.com/goncalo-f-oliveira/bingo-game"><img alt="Bingo Game" src="https://img.shields.io/badge/Bingo-Game-green?style=for-the-badge"></a>
+  <a href="https://github.com/goncalo-f-oliveira/ipv4_quizz_flutter"><img alt="IPv4 Quiz Flutter" src="https://img.shields.io/badge/IPv4-Quiz-orange?style=for-the-badge"></a>
+  <a href="https://github.com/goncalo-f-oliveira/vas-studio"><img alt="VAS Studio" src="https://img.shields.io/badge/VAS-Studio-red?style=for-the-badge"></a>
 </p>
