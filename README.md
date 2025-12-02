@@ -65,3 +65,10 @@ Backend-focused developer in training | 🎓 <i>Final-year Multimédia student</
   <a href="https://github.com/goncalo-f-oliveira/ipv4_quizz_flutter"><img alt="IPv4 Quiz Flutter" src="https://img.shields.io/badge/IPv4-Quiz-orange?style=for-the-badge"></a>
   <a href="https://github.com/goncalo-f-oliveira/vas-studio"><img alt="VAS Studio" src="https://img.shields.io/badge/VAS-Studio-red?style=for-the-badge"></a>
 </p>
+
+---
+
+### 📄 Resume (PDF)
+[Click to download](https://raw.githubusercontent.com/goncalo-f-oliveira/curriculum/main/curriculum_PT_EN.pdf)
+
+
