@@ -30,6 +30,7 @@ Backend-focused developer in training | 🎓 <i>Final-year Multimédia student</
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="30" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FC3F3F?style=for-the-badge&logo=laravel&logoColor=white" height="30" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
 </p>
@@ -46,7 +47,7 @@ Backend-focused developer in training | 🎓 <i>Final-year Multimédia student</
 
 <br>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-f-oliveira&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-codes&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </p>
 
 <picture>
