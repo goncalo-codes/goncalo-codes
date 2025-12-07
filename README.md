@@ -47,7 +47,7 @@ Fullstack-focused developer in training | 🎓 <i>Final-year Multimédia student
 
 <br>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-codes&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-f-oliveira&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </p>
 
 <picture>
