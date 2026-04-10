@@ -69,6 +69,6 @@ Fullstack-focused developer in training | 🎓 <i>Final-year Multimédia student
 ---
 
 ### 📄 Resume (PDF)
-[Click to download](https://raw.githubusercontent.com/goncalo-f-oliveira/curriculum/main/curriculum_PT_EN.pdf)
+[Click to download](https://raw.githubusercontent.com/goncalo-f-oliveira/curriculum/main/curriculum_EN_PT.pdf)
 
 
